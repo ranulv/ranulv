@@ -6,7 +6,7 @@ Ranul says Hi! 👋
 
 I am a Final Year Undergraduate studying Mechnical Engineering with a passion for Robotics, Human Computer Interaction, Autonomous Systems, Computer Vision and Artificial Intelligence.
 
-* 🌍  I'm based in Moratuwa, Sri Lanka
+* 🌍  I'm based in Galle, Sri Lanka
 * 🖥️  See my portfolio at [Ranul Vithanage Portfolio](http://ranul-vithanage.art)
 * ✉️  You can contact me at [vithanagetvrh.19@uom.lk](mailto:vithanagetvrh.19@uom.lk)
 * 🚀  I'm currently working on [Multifunctional Robotic Walker](http://https://raphaelattias.com/posts/2021/12/nec/)
