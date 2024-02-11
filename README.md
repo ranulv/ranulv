@@ -30,10 +30,11 @@ I am a Final Year Undergraduate studying Mechnical Engineering with a passion fo
 
 ### Languages and Tools
 
-[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
-[<img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matlab/matlab-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />]
---
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />][github]
+[<img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matlab/matlab-original.svg" style="padding-right:10px;" />][github]
+[<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />][github]
+
+[github]:https://github.com/ranulv/
