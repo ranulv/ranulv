@@ -1,7 +1,7 @@
-Ranul say Hi! 👋 
+Ranul says Hi! 👋 
 ===============================
 
-Mechanical Engineering Student - University of Moratuwa
+## Mechanical Engineering Student - University of Moratuwa
 -------------------------------------------------------
 
 I am a Final Year Undergraduate studying Mechnical Engineering with a passion for Robotics, Human Computer Interaction, Autonomous Systems, Computer Vision and Artificial Intelligence.
@@ -10,6 +10,23 @@ I am a Final Year Undergraduate studying Mechnical Engineering with a passion fo
 * 🖥️  See my portfolio at [Ranul Vithanage Portfolio](http://ranul-vithanage.art)
 * ✉️  You can contact me at [vithanagetvrh.19@uom.lk](mailto:vithanagetvrh.19@uom.lk)
 * 🚀  I'm currently working on [Multifunctional Robotic Walker](http://https://raphaelattias.com/posts/2021/12/nec/)
+
+### Connect with me:
+
+[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 ### Languages and Tools
 
@@ -26,12 +43,10 @@ I am a Final Year Undergraduate studying Mechnical Engineering with a passion fo
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
 </p>
--->
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/raphaelattias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/raphael-attias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-<!--
 ### Badges
 <b>My GitHub Stats</b>
 <a href="http://www.github.com/ranulv"><img src="https://github-readme-stats.vercel.app/api?username=ranulv&show_icons=true&hide_border=false&title_color=ff652f&icon_color=FFE400&bg_color=09131B&text_color=ffffff&border_color=0c1a25" alt="ranulv's GitHub Stats" /></a>
