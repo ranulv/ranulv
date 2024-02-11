@@ -9,7 +9,7 @@ I am a Final Year Undergraduate studying Mechnical Engineering with a passion fo
 * 🌍  I'm based in Moratuwa, Sri Lanka
 * 🖥️  See my portfolio at [Ranul Vithanage Portfolio](http://ranul-vithanage.art)
 * ✉️  You can contact me at [vithanagetvrh.19@uom.lk](mailto:vithanagetvrh.19@uom.lk)
-* 🚀  I'm currently working on [Multfunctional Robotic Walker](http://https://raphaelattias.com/posts/2021/12/nec/)
+* 🚀  I'm currently working on [Multifunctional Robotic Walker](http://https://raphaelattias.com/posts/2021/12/nec/)
 
 ### Skills
 
@@ -33,6 +33,3 @@ I am a Final Year Undergraduate studying Mechnical Engineering with a passion fo
 <br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br />
 -->
-## License
-
-Except where otherwise noted, the website's content was created by Pascal Michaillat and is licensed under the [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/).
