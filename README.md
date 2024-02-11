@@ -20,9 +20,7 @@ I am a Final Year Undergraduate studying Mechnical Engineering with a passion fo
 [<img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matlab/matlab-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />]
 <br />
-<br />
 
----
 <!--
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
