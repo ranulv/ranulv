@@ -1,4 +1,4 @@
-Welcome to Ranul's Git Space 👋 
+Ranul say Hi! 👋 
 ===============================
 
 Mechanical Engineering Student - University of Moratuwa
@@ -22,10 +22,11 @@ I am a Final Year Undergraduate studying Mechnical Engineering with a passion fo
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/raphaelattias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/raphael-attias" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
-<!--
+
 ### Badges
 <b>My GitHub Stats</b>
 <a href="http://www.github.com/raphaelattias"><img src="https://github-readme-stats.vercel.app/api?username=raphaelattias&show_icons=true&hide=issues,&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="raphaelattias's GitHub stats" /></a>
+<!--
 <b>Top Repositories</b>
 <div width="100%" align="center"><a href="https://github.com/raphaelattias/rooftop-cnn-detection" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelattias&repo=rooftop-cnn-detection&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/raphaelattias/Robust-Journey-Planning" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=raphaelattias&repo=Robust-Journey-Planning&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 <br /><br /><br /><br /><br />
