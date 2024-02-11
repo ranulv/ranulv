@@ -1,7 +1,7 @@
 Ranul says Hi! 👋 
 ===============================
 
-# Mechanical Engineering Student - University of Moratuwa
+### Mechanical Engineering Student - University of Moratuwa
 ----------------------------------------------------------
 
 I am a Final Year Undergraduate studying Mechnical Engineering with a passion for Robotics, Human Computer Interaction, Autonomous Systems, Computer Vision and Artificial Intelligence.
