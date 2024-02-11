@@ -1,7 +1,7 @@
 Ranul says Hi! 👋 
 ===============================
 
-## Mechanical Engineering Student - University of Moratuwa
+# Mechanical Engineering Student - University of Moratuwa
 ----------------------------------------------------------
 
 I am a Final Year Undergraduate studying Mechnical Engineering with a passion for Robotics, Human Computer Interaction, Autonomous Systems, Computer Vision and Artificial Intelligence.
@@ -36,3 +36,4 @@ I am a Final Year Undergraduate studying Mechnical Engineering with a passion fo
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />]
 [<img align="left" alt="MATLAB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/matlab/matlab-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/wordpress/wordpress-original.svg" style="padding-right:10px;" />]
+--
