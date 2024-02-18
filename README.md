@@ -9,7 +9,7 @@ I am a Final Year Undergraduate studying Mechnical Engineering with a passion fo
 * 🌍  I'm based in Galle, Sri Lanka
 * 🖥️  See my portfolio at [Ranul Vithanage Portfolio](http://ranul-vithanage.art)
 * ✉️  You can contact me at [vithanagetvrh.19@uom.lk](mailto:vithanagetvrh.19@uom.lk)
-* 🚀  I'm currently working on [Multifunctional Robotic Walker](http://ranulv.github.io)
+* 🚀  I'm currently working on [Multifunctional Robotic Walker](http://ranulv.github.io/3/)
 
 ### Connect with me:
 
